@@ -130,5 +130,6 @@ int main(void)
 	free(platforms);
 	free(device_list);
 	system("pause");
+
 	return 0;
 }
